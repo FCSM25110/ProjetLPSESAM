@@ -1,0 +1,11 @@
+Pour installer les bibliothèque vous devez aller dans 
+fichier > preférence > URL de gestionnaire de cartes supplémentaire :
+vous devez mettre ceci : http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+ensuite dans outils > types de carte : vous devez installer ESP8266 by ESP8266 Community version 2.4.1
+
+vous devez ensuite selectionner comme carte NodeMCU 1.0 ESP12E .
+
+enfin il suffit d'installer les bibliothèques .
+
+ 
