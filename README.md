@@ -1,12 +1,5 @@
 # ProjetLPSESAM
-## Moritoring du sommeil 
+## Mise en veille du Node NCU 
 
-Le projet Monitoring du sommeil à pour but  de mesure les mouvement d'une personne lors de son sommeil
- pour des raisons de licence aucun code fonctionnel sera présenté ici.
-
-Dans ce sous dossier vous trouverez : 
-
-Le rapport 
-
-Le powerpoint de soutenance 
+Ici est présenté le programme permettant de mettre en veille le Node MCU
  
